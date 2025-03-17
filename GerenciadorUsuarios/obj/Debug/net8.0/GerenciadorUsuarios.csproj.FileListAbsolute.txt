@@ -1,0 +1,14 @@
+C:\Users\Ellen\GerenciadorUsuarios\bin\Debug\net8.0\GerenciadorUsuarios.exe
+C:\Users\Ellen\GerenciadorUsuarios\bin\Debug\net8.0\GerenciadorUsuarios.deps.json
+C:\Users\Ellen\GerenciadorUsuarios\bin\Debug\net8.0\GerenciadorUsuarios.runtimeconfig.json
+C:\Users\Ellen\GerenciadorUsuarios\bin\Debug\net8.0\GerenciadorUsuarios.dll
+C:\Users\Ellen\GerenciadorUsuarios\bin\Debug\net8.0\GerenciadorUsuarios.pdb
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.AssemblyInfoInputs.cache
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.AssemblyInfo.cs
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.dll
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\refint\GerenciadorUsuarios.dll
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.pdb
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\GerenciadorUsuarios.genruntimeconfig.cache
+C:\Users\Ellen\GerenciadorUsuarios\obj\Debug\net8.0\ref\GerenciadorUsuarios.dll
